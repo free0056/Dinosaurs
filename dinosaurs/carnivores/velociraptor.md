@@ -1,18 +1,20 @@
-Velociraptor
+name: Velociraptor
 
-2 m
+Size: 2 m
 
-1924
+Discovery: 1924
 
-Henry Fairfield Osborn
+DiscovererHenry Fairfield Osborn
 
-Late Cretaceous
+Period: Late Cretaceous
 
-The Velociraptor is best known for its inaccurate portrayal in films including Jurassic Park
+Description: The Velociraptor is best known for its inaccurate portrayal in films including Jurassic Park
 
-carnivore
+category: carnivore
 
-http://en.wikipedia.org/wiki/Velociraptor
+Source: http://en.wikipedia.org/wiki/Velociraptor
+
+![Velociraptor skeleton](img/velociraptor-skeleton.png)
 
 Velociraptor is a genus of dromaeosaurid theropod dinosaur that lived approximately 75 to 71 million years ago during the later part of the Cretaceous Period, with species discovered in Mongolia, China.
 

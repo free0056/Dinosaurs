@@ -1,18 +1,18 @@
-Stegosaurus
+Name: Stegosaurus
 
-9 m
+Size: 9 m
 
-1877
+Discovery: 1877
 
-Othniel Charles Marsh
+Discoverer: Othniel Charles Marsh
 
-Late Jurassic
+Period: Late Jurassic
 
-The Stegosaurus is best known for the large plates on its back and long spikes on its tail
+Description: The Stegosaurus is best known for the large plates on its back and long spikes on its tail
 
-herbivore
+Category: herbivore
 
-http://en.wikipedia.org/wiki/Stegasaurus
+source: http://en.wikipedia.org/wiki/Stegasaurus
 
 Stegosaurus (meaning “roof lizard” or “covered lizard” in reference to its bony plates) is a genus of armored stegosaurid dinosaur. They lived during the Late Jurassic period (Kimmeridgian to early Tithonian), some 155 to 150 million years ago in what is now western North America.
 

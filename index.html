@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+
 	<meta charset="UTF-8">
 		<title>Dinosaurs</title>
 		<link href="css/general.css" rel="stylesheet">
@@ -7,6 +7,11 @@
 		<meta name="mobileoptimised" content="240">
 		<meta name="viewport" content="width=device-width,initial-scale=1,target-densitydpi=device-dpi">
 <h1> Dinosaurs! </h1>
+<h2> Carnivores </h2>
+<ul>
+{% for dino in site.pages %}
+<li>dino name </li>
+{& endfor %}
+</ul>
 	
-	
-</html>
+

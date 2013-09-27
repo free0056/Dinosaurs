@@ -10,7 +10,7 @@ category: carnivore
 source: http://en.wikipedia.org/wiki/Tyrannosaurus
 ---
 
-![Tyrannosaurus Rex skeleton](img/tyrannosaurus-rex-skeleton.jpg)
+![Tyrannosaurus Rex skeleton](img/tyrannosaurus-rex-skeleton.png)
 
 *Tyrannosaurus* (meaning “tyrant lizard’) is a genus of coelurosaurian theropod dinosaur. The species *Tyrannosaurus rex* (rex meaning "king" in Latin), commonly abbreviated to *T. rex*, is a fixture in popular culture. It lived throughout what is now western North America, at the time an island continent termed Laramidia, with a much wider range than other tyrannosaurids.
 
